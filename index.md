@@ -1,15 +1,15 @@
-# How to handle an unresponsive SME? <!-- omit in toc -->
+# Ways to handle unresponsive SMEs <!-- omit in toc -->
 
 ![Alt text](aa246608b3b3fe34728bd118d7d0e938.jpg)
 - [Introduction](#introduction)
-- [Cooperation with Subject Matter Experts in IT is essential for several reasons.](#cooperation-with-subject-matter-experts-in-it-is-essential-for-several-reasons)
-- [Then what are some of these challenges of working with SMEs?](#then-what-are-some-of-these-challenges-of-working-with-smes)
-- [How do we get them to cooperate with us in a manner that is beneficial to both parties?](#how-do-we-get-them-to-cooperate-with-us-in-a-manner-that-is-beneficial-to-both-parties)
+- [Cooperation with SMEs essential for several reasons](#cooperation-with-smes-essential-for-several-reasons)
+- [Some of the challenges of working with SMEs](#some-of-the-challenges-of-working-with-smes)
+- [Ways of getting SMEs to work with us](#ways-of-getting-smes-to-work-with-us)
 
 ## Introduction
-An unresponsive SME can be a real challenge sometimes, especially when you are about to embark on a mission to start documenting complex products, services or systems. For less proficient folk, it is important to have someone to turn to when dealing with difficult stuff. For instance, an SME. The key here is cooperation with such a person. The question is thus, how important is it to cooperate with Subject Matter Experts or SMEs in IT?
+An unresponsive SME *(abbr. Subject Matter Expert)* can be a real challenge sometimes, especially when you are about to embark on a mission to start documenting complex products, services or systems. For less proficient folk, it is important to have someone to turn to when dealing with difficult stuff. For instance, an SME. The key here is cooperation with such a person. The question is thus, how important is it to cooperate with Subject Matter Experts or SMEs in IT?
 
-## Cooperation with Subject Matter Experts in IT is essential for several reasons. 
+## Cooperation with SMEs essential for several reasons 
 
 The first one is the **expertise**. SMEs have a deep understanding of the specific area they specialize in. This expertise can help guide the IT team in developing solutions that are efficient, effective, and in line with industry standards.
 
@@ -25,7 +25,7 @@ In conclusion, SMEs play a crucial role in IT projects, contributing to their su
 
 While working with Subject Matter Experts (SMEs) can be highly beneficial, it can also present some challenges. 
 
-## Then what are some of these challenges of working with SMEs?
+## Some of the challenges of working with SMEs
 
 First of all, **availability**. SMEs often have many responsibilities and may not always be available when needed for a project. This can lead to delays and communication gaps.
 
@@ -41,7 +41,7 @@ Despite these challenges, the benefits of working with SMEs often outweigh the d
 
 The most important question when collaborating with SMEs on a specific project might be:
 
-## How do we get them to cooperate with us in a manner that is beneficial to both parties?
+## Ways of getting SMEs to work with us
 
 Motivating Subject Matter Experts (SMEs) in IT to cooperate can be achieved through several strategies:
 
