@@ -39,8 +39,6 @@ Not to be omitted is also **knowledge transfer**. It can be challenging to trans
 
 Despite these challenges, the benefits of working with SMEs often outweigh the difficulties. Effective communication, mutual respect, and understanding can help mitigate these challenges.
 
-The most important question when collaborating with SMEs on a specific project might be:
-
 ## Ways of getting SMEs to work with us
 
 Motivating Subject Matter Experts (SMEs) in IT to cooperate can be achieved through several strategies:
